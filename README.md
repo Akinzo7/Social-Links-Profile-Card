@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Akinzo7/Social-Links-Profile-Card)
-- Live Site URL: [Add live site URL here](https://akinzo7.github.io/Social-Links-Profile-Card/)
+- Live Site URL: [live site URL here](https://akinzo7.github.io/Social-Links-Profile-Card/)
 
 ## My process
 
@@ -54,14 +54,14 @@ Users should be able to:
 
 ### What I learned
 
-To be honest i still struggle with layout and styling. I had to do a little bit of revision on some css display properties to be able to solve this, however i still stumble on some hindrances but i Used chatgpt for clarifification and now i understand where the problem is.
+To be honest, I still struggle with layout and styling. I had to do a little bit of revision on some CSS display properties to be able to solve this; however, I still stumble on some hindrances but I used ChatGPT for clarification, and now I understand where the problem is.
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 ### Continued development
 
-I need to still learn more in-depth about css display properties like flexbox, grid and reponsive design. It's a gradual process and step-by-step i will get better.I can only get better.
+I need to still learn more in-depth about CSS display properties like flexbox, grid and responsive design. It's a gradual process, and step by step, I will get better. I can only get better.
 
 
 ## Author
@@ -72,4 +72,4 @@ I need to still learn more in-depth about css display properties like flexbox, g
 
 ## Acknowledgments
 
-I will like to appreciate Frontend Mentor for this challenge and i will like to thank my mum for her patience and support during this though period of my life. I believe it will all pay off.
+I would like to appreciate Frontend Mentor for this challenge, and I would like to thank my mum for her patience and support during this tough period of my life. I believe it will all pay off.
