@@ -39,10 +39,9 @@ body {
 background-color: #1f1f1fff;
   padding: 40px;
   border-radius: 12px;
-  width: 300px;              /* content width only */
-  box-sizing: content-box;   /* include padding outside this width */
+  width: 300px;              
+  box-sizing: content-box;   
   text-align: center;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);     /* prevent shrinking or growing */
 }
 
 h1 {
